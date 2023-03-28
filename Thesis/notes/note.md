@@ -1,0 +1,41 @@
+18.888 s (1257176 allocations: 13.13 GiB)
+18.242 s (1257177 allocations: 13.13 GiB)
+18.062 s (1257177 allocations: 13.13 GiB)
+20.784 s (2657176 allocations: 23.98 GiB)
+23.436 s (1413138 allocations: 7.76 GiB)
+18.352 s (1384525 allocations: 9.30 GiB)
+10.729 s (139969 allocations: 1.51 GiB)
+10.298 s (139962 allocations: 1.51 GiB)
+10.282 s (139961 allocations: 1.51 GiB)
+9.567 s (99962 allocations: 21.00 MiB)
+10.787 s (99962 allocations: 21.00 MiB)
+8.835 s (129762 allocations: 22.10 MiB)
+9.517 s (129762 allocations: 22.10 MiB)
+7.003 s (129762 allocations: 22.10 MiB)
+2.891 s (129762 allocations: 22.10 MiB)
+1.790 s (129762 allocations: 22.10 MiB)
+1.267 s (129762 allocations: 22.10 MiB)
+1.291 s (6611 allocations: 15.93 MiB)
+1.094 s (6611 allocations: 15.93 MiB)
+1.052 s (6699 allocations: 15.94 MiB)
+1.103 s (6607 allocations: 15.93 MiB)
+
+13.773566 seconds (43.79 k allocations: 64.366 MiB, 0.25% gc time, 0.11% compilation time)
+15.121602 seconds (43.78 k allocations: 64.364 MiB, 0.14% compilation time)
+
+13.689410 seconds (197.05 k allocations: 72.104 MiB, 0.20% gc time, 1.19% compilation time)
+15.088524 seconds (43.90 k allocations: 64.360 MiB, 0.15% compilation time)
+
+15.251995 seconds (43.90 k allocations: 64.360 MiB, 0.24% gc time, 0.12% compilation time)
+14.569647 seconds (43.90 k allocations: 64.360 MiB, 0.11% compilation time)
+13.975043 seconds (43.90 k allocations: 64.360 MiB, 0.13% compilation time)
+13.843450 seconds (2.04 M allocations: 107.085 MiB, 0.29% gc time, 0.11% compilation time)
+
+12.291956 seconds (2.04 M allocations: 107.084 MiB, 1.45% gc time, 0.13% compilation time)
+4.705859 seconds (2.04 M allocations: 107.084 MiB, 0.34% gc time, 0.34% compilation time)
+2.000 s (2043895 allocations: 113.19 MiB)
+2.052 s (2043895 allocations: 113.19 MiB)
+1.994 s (2043895 allocations: 113.19 MiB)
+
+
+Try to stop the mesurement instead of after a certain time, after the time the wave has reached the boundary x=0
